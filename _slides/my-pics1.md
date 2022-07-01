@@ -4,12 +4,13 @@ title: Provenza
 item: 1
 auto: true
 loop: true
-permalink: /slides/my-pics1.html
+permalink: /slides/soyLocal-Provenza.html
 ---
 
-* ![A nice pic of mine](soyLocal/pic1.jpg)
-* ![Another nice pic of mine](soyLocal/pic2.jpg)
-* ![Another nice pic of mine](soyLocal/pic3.jpg)
-* ![Another nice pic of mine](soyLocal/pic4.jpg)
-* # A text slide
+* ![Welome to Soy Local](soyLocal/provenza-bar.jpg)
+* ![Luxurious Beds](soyLocal/provenza-bed-window.jpg)
+* ![Convenient Kitchenette](soyLocal/provenza-kitchen.jpg)
+* ![Spacious living space](soyLocal/provenza-living.jpg)
+* ![Relax in the tub](soyLocal/provenza-tub.jpg)
+* ![Soy Local - Provenza] (soyLocal/soyLocal-Negro-Grande.png)
  
