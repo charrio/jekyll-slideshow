@@ -1,13 +1,13 @@
 ---
 layout: iframe
-title: Provenza
+title: Peñol
 item: 1
 auto: true
 loop: true
 speed: 1000
 pause: 4000
-# pager: "false"
-# controls: "false"
+pager: "false"
+controls: "false"
 style:
   body:
     duration: 10000
@@ -19,13 +19,14 @@ style:
       left: 0
     to:
       left: -100%
-permalink: /slides/soyLocal-Provenza.html
+permalink: /slides/penyol.html
 ---
 
-* ![Welome to Soy Local](soyLocal/provenza-bar.jpg)
-* ![Luxurious Beds](soyLocal/provenza-bed-window.jpg)
-* ![Convenient Kitchenette](soyLocal/provenza-kitchen.jpg)
-* ![Spacious living space](soyLocal/provenza-living.jpg)
-* ![Relax in the tub](soyLocal/provenza-tub.jpg)
-
+* ![Welome to Peñol](penyol/penyol-islands.jpg)
+* ![Peaks](penyol/penyol-peaks.jpg)
+* ![Breathtaking views](penyol/penyol-stairs.jpg)
+* ![Old Peñol City](penyol/penyol-viejo-arial.jpg)
+* ![Old Peñol City](penyol/penyol-viejo1.jpg)
+* ![Old Peñol City](penyol/penyol-viejo-center.jpg)
+* ![Old Peñol City](penyol/penyol-viejo2.jpg)
  
