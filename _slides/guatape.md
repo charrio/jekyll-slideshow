@@ -7,18 +7,18 @@ loop: true
 speed: 1000
 pause: 4000
 # pager: "false"
-# controls: "false"
+## controls: "false"
 style:
   body:
     duration: 10000
     init:
       position: absolute
       bottom: 0
-      width: 200%
+      width: 150%
     from:
       left: 0
     to:
-      left: -100%
+      left: -75%
 permalink: /slides/guatape.html
 ---
 
