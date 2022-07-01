@@ -12,5 +12,5 @@ permalink: /slides/soyLocal-Provenza.html
 * ![Convenient Kitchenette](soyLocal/provenza-kitchen.jpg)
 * ![Spacious living space](soyLocal/provenza-living.jpg)
 * ![Relax in the tub](soyLocal/provenza-tub.jpg)
-* ![Soy Local - Provenza] (soyLocal/soyLocal-Negro-Grande.png)
+* ![Soy Local - Provenza](soyLocal/soyLocal-Negro-Grande.png)
  
