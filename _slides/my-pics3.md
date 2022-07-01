@@ -1,6 +1,6 @@
 ---
 layout: iframe
-title: Provenza
+title: Cobrinha Medellin
 item: 1
 auto: true
 loop: true
@@ -27,5 +27,6 @@ permalink: /slides/cobrinha.html
 * ![Outside of Cobrinha](cobrinha/cobrinha-outside.jfif)
 * ![Spacious Rings](cobrinha/cobrinha-ring-corner.jfif)
 * ![Training at Cobrinha](cobrinha/cobrinha-training.jfif)
+
 
  
