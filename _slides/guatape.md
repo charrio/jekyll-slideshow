@@ -22,9 +22,10 @@ style:
 permalink: /slides/guatape.html
 ---
 
-* ![Welome to Guatape](guatape/guatape-island-view.jpg)
+
 * ![Streets](guatape/guatape-street.jpg)
 * ![tuk tuk](guatape/guatape-tuktuk.jpg)
+* ![Welome to Guatape](guatape/guatape-island-view.jpg)
 * ![Charming town](guatape/guatape-city.jpg)
 * ![Walk](guatape/guatape-umbrella.jpg)
 

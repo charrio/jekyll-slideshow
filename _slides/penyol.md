@@ -26,7 +26,6 @@ permalink: /slides/penyol.html
 * ![Peaks](penyol/penyol-peaks.jpg)
 * ![Breathtaking views](penyol/penyol-stairs.jpg)
 * ![Old Peñol City](penyol/penyol-viejo-arial.jpg)
-* ![Old Peñol City](penyol/penyol-viejo1.jpg)
 * ![Old Peñol City](penyol/penyol-viejo-center.jpg)
 * ![Old Peñol City](penyol/penyol-viejo2.jpg)
  
