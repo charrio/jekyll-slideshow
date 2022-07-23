@@ -44,6 +44,7 @@ nav {
 	height: 560px;
 	border: none;
 	background-color: #FFF;
+	min-height: 560px;
 }
 .sub-slideshow {
 	background-color: #FFF;
